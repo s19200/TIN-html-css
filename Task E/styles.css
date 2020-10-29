@@ -1,0 +1,18 @@
+img {
+    max-width: 100%;
+    max-height: 100%;
+	float: right;
+}
+h{
+	font-family: "Century Gothic";
+	font-size: 60px;
+}
+
+h1, h2, h3{
+	font-family: "Apple Gothic";
+	font-size: 45px;
+}
+
+p{
+	font-size: 30px;
+}

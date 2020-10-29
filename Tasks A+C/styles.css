@@ -1,0 +1,24 @@
+h1 {
+  color: purple;
+  font-family: verdana;
+  font-size: 300%;
+}
+p{
+  color: red;
+  font-family: courier;
+  font-size: 160%;
+}
+p2{
+  color: green;
+  font-family: verdana;
+  font-size: 160%;
+}
+table, th, td {
+  border: 2px solid black;
+  border-collapse: collapse;
+border-color: orange;
+}
+ul li::marker {
+  color: blue;
+  font-size: 1.2em;
+}
